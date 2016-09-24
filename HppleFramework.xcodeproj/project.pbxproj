@@ -7,11 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		212086C91D95F7B200C6DB62 /* TFHpple.h in Headers */ = {isa = PBXBuildFile; fileRef = 212086C31D95F7B200C6DB62 /* TFHpple.h */; };
+		212086C91D95F7B200C6DB62 /* TFHpple.h in Headers */ = {isa = PBXBuildFile; fileRef = 212086C31D95F7B200C6DB62 /* TFHpple.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		212086CA1D95F7B200C6DB62 /* TFHpple.m in Sources */ = {isa = PBXBuildFile; fileRef = 212086C41D95F7B200C6DB62 /* TFHpple.m */; };
-		212086CB1D95F7B200C6DB62 /* TFHppleElement.h in Headers */ = {isa = PBXBuildFile; fileRef = 212086C51D95F7B200C6DB62 /* TFHppleElement.h */; };
+		212086CB1D95F7B200C6DB62 /* TFHppleElement.h in Headers */ = {isa = PBXBuildFile; fileRef = 212086C51D95F7B200C6DB62 /* TFHppleElement.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		212086CC1D95F7B200C6DB62 /* TFHppleElement.m in Sources */ = {isa = PBXBuildFile; fileRef = 212086C61D95F7B200C6DB62 /* TFHppleElement.m */; };
-		212086CD1D95F7B200C6DB62 /* XPathQuery.h in Headers */ = {isa = PBXBuildFile; fileRef = 212086C71D95F7B200C6DB62 /* XPathQuery.h */; };
+		212086CD1D95F7B200C6DB62 /* XPathQuery.h in Headers */ = {isa = PBXBuildFile; fileRef = 212086C71D95F7B200C6DB62 /* XPathQuery.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		212086CE1D95F7B200C6DB62 /* XPathQuery.m in Sources */ = {isa = PBXBuildFile; fileRef = 212086C81D95F7B200C6DB62 /* XPathQuery.m */; };
 		212086D31D95F94900C6DB62 /* libxml2.2.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 212086D21D95F94900C6DB62 /* libxml2.2.dylib */; };
 		212086D51D95FF4600C6DB62 /* HppleFramework.h in Headers */ = {isa = PBXBuildFile; fileRef = 212086D41D95FF1D00C6DB62 /* HppleFramework.h */; settings = {ATTRIBUTES = (Public, ); }; };
