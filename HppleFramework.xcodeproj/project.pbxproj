@@ -7,13 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		212086C91D95F7B200C6DB62 /* TFHpple.h in Headers */ = {isa = PBXBuildFile; fileRef = 212086C31D95F7B200C6DB62 /* TFHpple.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		212086C91D95F7B200C6DB62 /* TFHpple.h in Headers */ = {isa = PBXBuildFile; fileRef = 212086C31D95F7B200C6DB62 /* TFHpple.h */; };
 		212086CA1D95F7B200C6DB62 /* TFHpple.m in Sources */ = {isa = PBXBuildFile; fileRef = 212086C41D95F7B200C6DB62 /* TFHpple.m */; };
 		212086CB1D95F7B200C6DB62 /* TFHppleElement.h in Headers */ = {isa = PBXBuildFile; fileRef = 212086C51D95F7B200C6DB62 /* TFHppleElement.h */; };
 		212086CC1D95F7B200C6DB62 /* TFHppleElement.m in Sources */ = {isa = PBXBuildFile; fileRef = 212086C61D95F7B200C6DB62 /* TFHppleElement.m */; };
 		212086CD1D95F7B200C6DB62 /* XPathQuery.h in Headers */ = {isa = PBXBuildFile; fileRef = 212086C71D95F7B200C6DB62 /* XPathQuery.h */; };
 		212086CE1D95F7B200C6DB62 /* XPathQuery.m in Sources */ = {isa = PBXBuildFile; fileRef = 212086C81D95F7B200C6DB62 /* XPathQuery.m */; };
 		212086D31D95F94900C6DB62 /* libxml2.2.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 212086D21D95F94900C6DB62 /* libxml2.2.dylib */; };
+		212086D51D95FF4600C6DB62 /* HppleFramework.h in Headers */ = {isa = PBXBuildFile; fileRef = 212086D41D95FF1D00C6DB62 /* HppleFramework.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		213CE5D81D95F70400EBBFF4 /* HppleFramework.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 213CE5CE1D95F70400EBBFF4 /* HppleFramework.framework */; };
 		213CE5DD1D95F70400EBBFF4 /* HppleFrameworkTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 213CE5DC1D95F70400EBBFF4 /* HppleFrameworkTests.m */; };
 /* End PBXBuildFile section */
@@ -36,6 +37,7 @@
 		212086C71D95F7B200C6DB62 /* XPathQuery.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = XPathQuery.h; path = Pod/Classes/XPathQuery.h; sourceTree = SOURCE_ROOT; };
 		212086C81D95F7B200C6DB62 /* XPathQuery.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = XPathQuery.m; path = Pod/Classes/XPathQuery.m; sourceTree = SOURCE_ROOT; };
 		212086D21D95F94900C6DB62 /* libxml2.2.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libxml2.2.dylib; path = ../../../../usr/lib/libxml2.2.dylib; sourceTree = "<group>"; };
+		212086D41D95FF1D00C6DB62 /* HppleFramework.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HppleFramework.h; sourceTree = SOURCE_ROOT; };
 		213CE5CE1D95F70400EBBFF4 /* HppleFramework.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = HppleFramework.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		213CE5D21D95F70400EBBFF4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		213CE5D71D95F70400EBBFF4 /* HppleFrameworkTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HppleFrameworkTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -93,6 +95,7 @@
 		213CE5D01D95F70400EBBFF4 /* HppleFramework */ = {
 			isa = PBXGroup;
 			children = (
+				212086D41D95FF1D00C6DB62 /* HppleFramework.h */,
 				212086C31D95F7B200C6DB62 /* TFHpple.h */,
 				212086C41D95F7B200C6DB62 /* TFHpple.m */,
 				212086C51D95F7B200C6DB62 /* TFHppleElement.h */,
@@ -120,6 +123,7 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				212086D51D95FF4600C6DB62 /* HppleFramework.h in Headers */,
 				212086C91D95F7B200C6DB62 /* TFHpple.h in Headers */,
 				212086CD1D95F7B200C6DB62 /* XPathQuery.h in Headers */,
 				212086CB1D95F7B200C6DB62 /* TFHppleElement.h in Headers */,
