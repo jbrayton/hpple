@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C98F34640CDAF8C591AEB91EEF768A6198C4416E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C98F34640CDAF8C591AEB91EEF768A6198C4416E" : 9223372036854775807,
+    "73F690BE1B6D95EB211CEAFEF8F4E7FC8A1A292F" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "134937C0-5F55-433A-9BEC-64F5E4C41493",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C98F34640CDAF8C591AEB91EEF768A6198C4416E" : "hpple\/",
+    "73F690BE1B6D95EB211CEAFEF8F4E7FC8A1A292F" : "IFUnicodeURL\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "IFUnicodeURL",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "IFUnicodeURL\/IFUnicodeURL.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:jbrayton\/IFUnicodeURL.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "73F690BE1B6D95EB211CEAFEF8F4E7FC8A1A292F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:jbrayton\/hpple.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C98F34640CDAF8C591AEB91EEF768A6198C4416E"
+    }
+  ]
+}
